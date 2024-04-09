@@ -2,6 +2,8 @@
 
 This project analyzes hotel booking cancellations for City Hotel and Resort Hotel, aiming to understand the factors affecting cancellation rates and provide recommendations to reduce cancellations and increase revenue.
 
+![IPL (2008-2023)](./Image.webp)
+
 ## Business Problem
 
 Both City Hotel and Resort Hotel have been experiencing high cancellation rates, leading to revenue loss and inefficiencies in room utilization. Lowering cancellation rates is a primary goal for both hotels to increase revenue and improve efficiency.
